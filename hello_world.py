@@ -3,6 +3,7 @@ import random
 import math
 import json
 import csv
+import logging
 import argparse
 from configparser import ConfigParser
 
@@ -14,6 +15,8 @@ class Sheep:
         self.x = -(self.init_pos_limit)
         self.y = self.init_pos_limit
         self.status = "alive"
+        log = "sheep initialization function called"
+        logging.debug(log)
     def move_sheep(self, sheep_move_dist):
         directions = ["north", "west", "east", "south"]
         random.shuffle(directions)
@@ -30,9 +33,11 @@ class Sheep:
         else:
             #print("to jest poludnie")
             self.y -= sheep_move_dist
+        log = "sheep move method called"
+        logging.debug(log)
 
     def getEaten(self):
-        self.status = 'eaten';
+        self.status = 'eaten'
 
     def sheep_info(self):
         if(self.status == "alive"):
@@ -59,7 +64,12 @@ class Wolf:
         print("{:.3f}".format(self.y))
 
 
-def round(number_rounds, wolf, sheep, wolf_move_dist, j):
+def round(number_rounds, wolf, sheep, wolf_move_dist, j, sheep_move_dist):
+    #wszystkie zyjace owce wykonuja ruch
+    for single_sheep in sheep:
+        if single_sheep.status == "alive":
+            single_sheep.move_sheep(sheep_move_dist)
+
     #liczenie dystansu miedzy wilkiem i owcami
     distances_wolf_sheep = []
 
@@ -168,7 +178,7 @@ def main():
        wait = args.wait
     if args.config:
         init_pos_limit, sheep_move_dist, wolf_move_dist = config_parser(args.config)
-   # if args.help:
+
 
 
     wolf = Wolf()
@@ -193,7 +203,7 @@ def main():
     open("pos.json", "w").close()
 
     while j < number_rounds:
-        round(number_rounds, wolf, sheep, wolf_move_dist, j)
+        round(number_rounds, wolf, sheep, wolf_move_dist, j, sheep_move_dist)
         toCSV(j, sheep)
         print("numer tury: ")
         print(j)
