@@ -95,10 +95,9 @@ def round(number_rounds, wolf, sheep, wolf_move_dist, j, sheep_move_dist):
     distances_wolf_sheep = []
 
     for single_sheep in sheep:
-        distances_wolf_sheep.append(math.sqrt(((single_sheep.x - wolf.x) ** 2) + ((single_sheep.y - wolf.y) ** 2)))
-        #jeżeli owca jest martwa to oddalamy ją daleko żeby nie była brana pod uwagę i zjedzona ponownie
-        if single_sheep.status != "alive":
-            distances_wolf_sheep[-1] += 10000
+        if single_sheep.status == "alive":
+            distances_wolf_sheep.append(math.sqrt(((single_sheep.x - wolf.x) ** 2) + ((single_sheep.y - wolf.y) ** 2)))
+
     #wybor najblizszej owcy, znalezienie jej indeksu
     nearest_sheep_distance = min(distances_wolf_sheep)
     nearest_sheep_index = distances_wolf_sheep.index(min(distances_wolf_sheep))
@@ -247,7 +246,6 @@ def main():
     #rozgrywka
     print("informacje o rundzie:")
     j = 0
-
 
     #zapis nagłówka pliku csv
     with open('alive.csv', 'w') as csvfile:
