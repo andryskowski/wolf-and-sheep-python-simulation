@@ -272,8 +272,6 @@ def main():
             input("Press key to continue simulation")
         j += 1
 
-    print("na koniec sprawdzam config.ini")
-    print(sheep_move_dist)
 
 if __name__ == '__main__':
     main()
