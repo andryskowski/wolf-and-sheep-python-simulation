@@ -102,7 +102,7 @@ def round(number_rounds, wolf, sheep, wolf_move_dist, j, sheep_move_dist):
     nearest_sheep_distance = min(distances_wolf_sheep)
     nearest_sheep_index = distances_wolf_sheep.index(min(distances_wolf_sheep))
     #sprawdzenie czy wilk moze pozreć najblizszą owcę
-    if min(distances_wolf_sheep) < wolf_move_dist:
+    if nearest_sheep_distance < wolf_move_dist:
         print("wilk zjada owcę!")
         #  del sheep[nearest_sheep_index]
         sheep[nearest_sheep_index].get_eaten()
