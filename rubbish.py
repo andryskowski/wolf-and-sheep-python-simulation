@@ -1,3 +1,9 @@
-array = ["ziemniak", null, "surowka", "jablko", "ananas"]
-del array[2]
-print(array)
+from configparser import ConfigParser
+
+file = 'config.ini'
+config = ConfigParser()
+config.read(file)
+
+print(config['Terrain']['InitPosLimit'])
+print(config['Movement']['SheepMoveDist'])
+print(config['Movement']['WolfMoveDist'])
