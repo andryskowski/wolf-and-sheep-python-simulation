@@ -1,15 +1,1770 @@
 DEBUG:root:sheep initialization function called
+INFO:root:sheep inizialize position: -1.8384969445749233, 1.8384969445749233
 DEBUG:root:sheep initialization function called
+INFO:root:sheep inizialize position: -5.8450582823996395, 5.8450582823996395
 DEBUG:root:sheep initialization function called
+INFO:root:sheep inizialize position: -0.0692726531262422, 0.0692726531262422
 DEBUG:root:sheep initialization function called
+INFO:root:sheep inizialize position: -7.250342254076609, 7.250342254076609
 DEBUG:root:sheep initialization function called
+INFO:root:sheep inizialize position: -7.488727324726265, 7.488727324726265
 DEBUG:root:sheep initialization function called
+INFO:root:sheep inizialize position: -6.545101926264879, 6.545101926264879
 DEBUG:root:sheep initialization function called
+INFO:root:sheep inizialize position: -1.0341355163153032, 1.0341355163153032
 DEBUG:root:sheep initialization function called
+INFO:root:sheep inizialize position: -6.08750382233061, 6.08750382233061
 DEBUG:root:sheep initialization function called
+INFO:root:sheep inizialize position: -1.4088612201575834, 1.4088612201575834
 DEBUG:root:sheep initialization function called
+INFO:root:sheep inizialize position: -7.798363908956361, 7.798363908956361
 DEBUG:root:sheep initialization function called
+INFO:root:sheep inizialize position: -4.710045084019697, 4.710045084019697
 DEBUG:root:sheep initialization function called
+INFO:root:sheep inizialize position: -3.0638033131396156, 3.0638033131396156
 DEBUG:root:sheep initialization function called
+INFO:root:sheep inizialize position: -4.335167322806779, 4.335167322806779
 DEBUG:root:sheep initialization function called
+INFO:root:sheep inizialize position: -3.215055512664321, 3.215055512664321
 DEBUG:root:sheep initialization function called
+INFO:root:sheep inizialize position: -6.32089024374668, 6.32089024374668
+INFO:root:move_sheep, position before: -1.8384969445749233, 1.8384969445749233
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -1.3384969445749233, 1.8384969445749233
+INFO:root:move_sheep, position before: -5.8450582823996395, 5.8450582823996395
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -5.8450582823996395, 6.3450582823996395
+INFO:root:move_sheep, position before: -0.0692726531262422, 0.0692726531262422
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: 0.4307273468737578, 0.0692726531262422
+INFO:root:move_sheep, position before: -7.250342254076609, 7.250342254076609
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -6.750342254076609, 7.250342254076609
+INFO:root:move_sheep, position before: -7.488727324726265, 7.488727324726265
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -7.988727324726265, 7.488727324726265
+INFO:root:move_sheep, position before: -6.545101926264879, 6.545101926264879
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -6.545101926264879, 6.045101926264879
+INFO:root:move_sheep, position before: -1.0341355163153032, 1.0341355163153032
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -1.0341355163153032, 0.5341355163153032
+INFO:root:move_sheep, position before: -6.08750382233061, 6.08750382233061
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -6.58750382233061, 6.08750382233061
+INFO:root:move_sheep, position before: -1.4088612201575834, 1.4088612201575834
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -1.4088612201575834, 0.9088612201575834
+INFO:root:move_sheep, position before: -7.798363908956361, 7.798363908956361
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -7.298363908956361, 7.798363908956361
+INFO:root:move_sheep, position before: -4.710045084019697, 4.710045084019697
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -4.210045084019697, 4.710045084019697
+INFO:root:move_sheep, position before: -3.0638033131396156, 3.0638033131396156
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -3.0638033131396156, 3.5638033131396156
+INFO:root:move_sheep, position before: -4.335167322806779, 4.335167322806779
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -3.835167322806779, 4.335167322806779
+INFO:root:move_sheep, position before: -3.215055512664321, 3.215055512664321
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -2.715055512664321, 3.215055512664321
+INFO:root:move_sheep, position before: -6.32089024374668, 6.32089024374668
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -6.32089024374668, 5.82089024374668
+DEBUG:root:get_eaten function called
+INFO:root:wolf has eaten sheep, sheep number: 2
+DEBUG:root:sheep_info function called, returned values: -1.3384969445749233, 1.8384969445749233
+DEBUG:root:sheep_info function called, returned values: -5.8450582823996395, 6.3450582823996395
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -6.750342254076609, 7.250342254076609
+DEBUG:root:sheep_info function called, returned values: -7.988727324726265, 7.488727324726265
+DEBUG:root:sheep_info function called, returned values: -6.545101926264879, 6.045101926264879
+DEBUG:root:sheep_info function called, returned values: -1.0341355163153032, 0.5341355163153032
+DEBUG:root:sheep_info function called, returned values: -6.58750382233061, 6.08750382233061
+DEBUG:root:sheep_info function called, returned values: -1.4088612201575834, 0.9088612201575834
+DEBUG:root:sheep_info function called, returned values: -7.298363908956361, 7.798363908956361
+DEBUG:root:sheep_info function called, returned values: -4.210045084019697, 4.710045084019697
+DEBUG:root:sheep_info function called, returned values: -3.0638033131396156, 3.5638033131396156
+DEBUG:root:sheep_info function called, returned values: -3.835167322806779, 4.335167322806779
+DEBUG:root:sheep_info function called, returned values: -2.715055512664321, 3.215055512664321
+DEBUG:root:sheep_info function called, returned values: -6.32089024374668, 5.82089024374668
+DEBUG:root:round toJSON called
+DEBUG:root:round function called
+DEBUG:root:round count_alive called, returned: 14
+DEBUG:root:toCSV called
+DEBUG:root:get_wolf_coordinates method called
+DEBUG:root:round count_alive called, returned: 14
+DEBUG:root:round count_alive called, returned: 14
+INFO:root:move_sheep, position before: -1.3384969445749233, 1.8384969445749233
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -1.8384969445749233, 1.8384969445749233
+INFO:root:move_sheep, position before: -5.8450582823996395, 6.3450582823996395
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -5.3450582823996395, 6.3450582823996395
+INFO:root:move_sheep, position before: -6.750342254076609, 7.250342254076609
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -6.250342254076609, 7.250342254076609
+INFO:root:move_sheep, position before: -7.988727324726265, 7.488727324726265
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -8.488727324726266, 7.488727324726265
+INFO:root:move_sheep, position before: -6.545101926264879, 6.045101926264879
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -6.545101926264879, 5.545101926264879
+INFO:root:move_sheep, position before: -1.0341355163153032, 0.5341355163153032
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -1.5341355163153032, 0.5341355163153032
+INFO:root:move_sheep, position before: -6.58750382233061, 6.08750382233061
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -6.58750382233061, 5.58750382233061
+INFO:root:move_sheep, position before: -1.4088612201575834, 0.9088612201575834
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -1.4088612201575834, 1.4088612201575834
+INFO:root:move_sheep, position before: -7.298363908956361, 7.798363908956361
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -7.298363908956361, 8.298363908956361
+INFO:root:move_sheep, position before: -4.210045084019697, 4.710045084019697
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -4.210045084019697, 4.210045084019697
+INFO:root:move_sheep, position before: -3.0638033131396156, 3.5638033131396156
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -2.5638033131396156, 3.5638033131396156
+INFO:root:move_sheep, position before: -3.835167322806779, 4.335167322806779
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -3.335167322806779, 4.335167322806779
+INFO:root:move_sheep, position before: -2.715055512664321, 3.215055512664321
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -2.715055512664321, 2.715055512664321
+INFO:root:move_sheep, position before: -6.32089024374668, 5.82089024374668
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -5.82089024374668, 5.82089024374668
+INFO:root:move_wolf, position before: 0.0, 0.0
+INFO:root:move_wolf, position after: -0.9443968241843855, 0.3288079051215872
+DEBUG:root:move_wolf method called
+DEBUG:root:sheep_info function called, returned values: -1.8384969445749233, 1.8384969445749233
+DEBUG:root:sheep_info function called, returned values: -5.3450582823996395, 6.3450582823996395
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -6.250342254076609, 7.250342254076609
+DEBUG:root:sheep_info function called, returned values: -8.488727324726266, 7.488727324726265
+DEBUG:root:sheep_info function called, returned values: -6.545101926264879, 5.545101926264879
+DEBUG:root:sheep_info function called, returned values: -1.5341355163153032, 0.5341355163153032
+DEBUG:root:sheep_info function called, returned values: -6.58750382233061, 5.58750382233061
+DEBUG:root:sheep_info function called, returned values: -1.4088612201575834, 1.4088612201575834
+DEBUG:root:sheep_info function called, returned values: -7.298363908956361, 8.298363908956361
+DEBUG:root:sheep_info function called, returned values: -4.210045084019697, 4.210045084019697
+DEBUG:root:sheep_info function called, returned values: -2.5638033131396156, 3.5638033131396156
+DEBUG:root:sheep_info function called, returned values: -3.335167322806779, 4.335167322806779
+DEBUG:root:sheep_info function called, returned values: -2.715055512664321, 2.715055512664321
+DEBUG:root:sheep_info function called, returned values: -5.82089024374668, 5.82089024374668
+DEBUG:root:round toJSON called
+DEBUG:root:round function called
+DEBUG:root:round count_alive called, returned: 14
+DEBUG:root:toCSV called
+DEBUG:root:get_wolf_coordinates method called
+DEBUG:root:round count_alive called, returned: 14
+DEBUG:root:round count_alive called, returned: 14
+INFO:root:move_sheep, position before: -1.8384969445749233, 1.8384969445749233
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -1.8384969445749233, 2.3384969445749233
+INFO:root:move_sheep, position before: -5.3450582823996395, 6.3450582823996395
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -5.3450582823996395, 5.8450582823996395
+INFO:root:move_sheep, position before: -6.250342254076609, 7.250342254076609
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -6.750342254076609, 7.250342254076609
+INFO:root:move_sheep, position before: -8.488727324726266, 7.488727324726265
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -7.988727324726266, 7.488727324726265
+INFO:root:move_sheep, position before: -6.545101926264879, 5.545101926264879
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -6.045101926264879, 5.545101926264879
+INFO:root:move_sheep, position before: -1.5341355163153032, 0.5341355163153032
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -1.0341355163153032, 0.5341355163153032
+INFO:root:move_sheep, position before: -6.58750382233061, 5.58750382233061
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -6.58750382233061, 5.08750382233061
+INFO:root:move_sheep, position before: -1.4088612201575834, 1.4088612201575834
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -1.4088612201575834, 1.9088612201575834
+INFO:root:move_sheep, position before: -7.298363908956361, 8.298363908956361
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -7.298363908956361, 8.798363908956361
+INFO:root:move_sheep, position before: -4.210045084019697, 4.210045084019697
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -4.210045084019697, 4.710045084019697
+INFO:root:move_sheep, position before: -2.5638033131396156, 3.5638033131396156
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -2.5638033131396156, 4.063803313139616
+INFO:root:move_sheep, position before: -3.335167322806779, 4.335167322806779
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -3.835167322806779, 4.335167322806779
+INFO:root:move_sheep, position before: -2.715055512664321, 2.715055512664321
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -2.715055512664321, 3.215055512664321
+INFO:root:move_sheep, position before: -5.82089024374668, 5.82089024374668
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -5.82089024374668, 5.32089024374668
+DEBUG:root:get_eaten function called
+INFO:root:wolf has eaten sheep, sheep number: 6
+DEBUG:root:sheep_info function called, returned values: -1.8384969445749233, 2.3384969445749233
+DEBUG:root:sheep_info function called, returned values: -5.3450582823996395, 5.8450582823996395
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -6.750342254076609, 7.250342254076609
+DEBUG:root:sheep_info function called, returned values: -7.988727324726266, 7.488727324726265
+DEBUG:root:sheep_info function called, returned values: -6.045101926264879, 5.545101926264879
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -6.58750382233061, 5.08750382233061
+DEBUG:root:sheep_info function called, returned values: -1.4088612201575834, 1.9088612201575834
+DEBUG:root:sheep_info function called, returned values: -7.298363908956361, 8.798363908956361
+DEBUG:root:sheep_info function called, returned values: -4.210045084019697, 4.710045084019697
+DEBUG:root:sheep_info function called, returned values: -2.5638033131396156, 4.063803313139616
+DEBUG:root:sheep_info function called, returned values: -3.835167322806779, 4.335167322806779
+DEBUG:root:sheep_info function called, returned values: -2.715055512664321, 3.215055512664321
+DEBUG:root:sheep_info function called, returned values: -5.82089024374668, 5.32089024374668
+DEBUG:root:round toJSON called
+DEBUG:root:round function called
+DEBUG:root:round count_alive called, returned: 13
+DEBUG:root:toCSV called
+DEBUG:root:get_wolf_coordinates method called
+DEBUG:root:round count_alive called, returned: 13
+DEBUG:root:round count_alive called, returned: 13
+INFO:root:move_sheep, position before: -1.8384969445749233, 2.3384969445749233
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -1.8384969445749233, 1.8384969445749233
+INFO:root:move_sheep, position before: -5.3450582823996395, 5.8450582823996395
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -5.8450582823996395, 5.8450582823996395
+INFO:root:move_sheep, position before: -6.750342254076609, 7.250342254076609
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -6.250342254076609, 7.250342254076609
+INFO:root:move_sheep, position before: -7.988727324726266, 7.488727324726265
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -7.488727324726266, 7.488727324726265
+INFO:root:move_sheep, position before: -6.045101926264879, 5.545101926264879
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -6.545101926264879, 5.545101926264879
+INFO:root:move_sheep, position before: -6.58750382233061, 5.08750382233061
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -6.58750382233061, 4.58750382233061
+INFO:root:move_sheep, position before: -1.4088612201575834, 1.9088612201575834
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -1.4088612201575834, 1.4088612201575834
+INFO:root:move_sheep, position before: -7.298363908956361, 8.798363908956361
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -7.298363908956361, 8.298363908956361
+INFO:root:move_sheep, position before: -4.210045084019697, 4.710045084019697
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -4.210045084019697, 5.210045084019697
+INFO:root:move_sheep, position before: -2.5638033131396156, 4.063803313139616
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -3.0638033131396156, 4.063803313139616
+INFO:root:move_sheep, position before: -3.835167322806779, 4.335167322806779
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -4.335167322806779, 4.335167322806779
+INFO:root:move_sheep, position before: -2.715055512664321, 3.215055512664321
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -2.715055512664321, 3.715055512664321
+INFO:root:move_sheep, position before: -5.82089024374668, 5.32089024374668
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -5.82089024374668, 4.82089024374668
+INFO:root:move_wolf, position before: -0.9443968241843855, 0.3288079051215872
+INFO:root:move_wolf, position after: -1.3394543437262756, 1.2474642915106489
+DEBUG:root:move_wolf method called
+DEBUG:root:sheep_info function called, returned values: -1.8384969445749233, 1.8384969445749233
+DEBUG:root:sheep_info function called, returned values: -5.8450582823996395, 5.8450582823996395
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -6.250342254076609, 7.250342254076609
+DEBUG:root:sheep_info function called, returned values: -7.488727324726266, 7.488727324726265
+DEBUG:root:sheep_info function called, returned values: -6.545101926264879, 5.545101926264879
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -6.58750382233061, 4.58750382233061
+DEBUG:root:sheep_info function called, returned values: -1.4088612201575834, 1.4088612201575834
+DEBUG:root:sheep_info function called, returned values: -7.298363908956361, 8.298363908956361
+DEBUG:root:sheep_info function called, returned values: -4.210045084019697, 5.210045084019697
+DEBUG:root:sheep_info function called, returned values: -3.0638033131396156, 4.063803313139616
+DEBUG:root:sheep_info function called, returned values: -4.335167322806779, 4.335167322806779
+DEBUG:root:sheep_info function called, returned values: -2.715055512664321, 3.715055512664321
+DEBUG:root:sheep_info function called, returned values: -5.82089024374668, 4.82089024374668
+DEBUG:root:round toJSON called
+DEBUG:root:round function called
+DEBUG:root:round count_alive called, returned: 13
+DEBUG:root:toCSV called
+DEBUG:root:get_wolf_coordinates method called
+DEBUG:root:round count_alive called, returned: 13
+DEBUG:root:round count_alive called, returned: 13
+INFO:root:move_sheep, position before: -1.8384969445749233, 1.8384969445749233
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -1.3384969445749233, 1.8384969445749233
+INFO:root:move_sheep, position before: -5.8450582823996395, 5.8450582823996395
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -5.8450582823996395, 6.3450582823996395
+INFO:root:move_sheep, position before: -6.250342254076609, 7.250342254076609
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -5.750342254076609, 7.250342254076609
+INFO:root:move_sheep, position before: -7.488727324726266, 7.488727324726265
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -6.988727324726266, 7.488727324726265
+INFO:root:move_sheep, position before: -6.545101926264879, 5.545101926264879
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -7.045101926264879, 5.545101926264879
+INFO:root:move_sheep, position before: -6.58750382233061, 4.58750382233061
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -6.08750382233061, 4.58750382233061
+INFO:root:move_sheep, position before: -1.4088612201575834, 1.4088612201575834
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -0.9088612201575834, 1.4088612201575834
+INFO:root:move_sheep, position before: -7.298363908956361, 8.298363908956361
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -7.298363908956361, 7.798363908956361
+INFO:root:move_sheep, position before: -4.210045084019697, 5.210045084019697
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -4.710045084019697, 5.210045084019697
+INFO:root:move_sheep, position before: -3.0638033131396156, 4.063803313139616
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -3.5638033131396156, 4.063803313139616
+INFO:root:move_sheep, position before: -4.335167322806779, 4.335167322806779
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -3.835167322806779, 4.335167322806779
+INFO:root:move_sheep, position before: -2.715055512664321, 3.715055512664321
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -2.715055512664321, 4.215055512664321
+INFO:root:move_sheep, position before: -5.82089024374668, 4.82089024374668
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -5.32089024374668, 4.82089024374668
+DEBUG:root:get_eaten function called
+INFO:root:wolf has eaten sheep, sheep number: 8
+DEBUG:root:sheep_info function called, returned values: -1.3384969445749233, 1.8384969445749233
+DEBUG:root:sheep_info function called, returned values: -5.8450582823996395, 6.3450582823996395
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -5.750342254076609, 7.250342254076609
+DEBUG:root:sheep_info function called, returned values: -6.988727324726266, 7.488727324726265
+DEBUG:root:sheep_info function called, returned values: -7.045101926264879, 5.545101926264879
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -6.08750382233061, 4.58750382233061
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -7.298363908956361, 7.798363908956361
+DEBUG:root:sheep_info function called, returned values: -4.710045084019697, 5.210045084019697
+DEBUG:root:sheep_info function called, returned values: -3.5638033131396156, 4.063803313139616
+DEBUG:root:sheep_info function called, returned values: -3.835167322806779, 4.335167322806779
+DEBUG:root:sheep_info function called, returned values: -2.715055512664321, 4.215055512664321
+DEBUG:root:sheep_info function called, returned values: -5.32089024374668, 4.82089024374668
+DEBUG:root:round toJSON called
+DEBUG:root:round function called
+DEBUG:root:round count_alive called, returned: 12
+DEBUG:root:toCSV called
+DEBUG:root:get_wolf_coordinates method called
+DEBUG:root:round count_alive called, returned: 12
+DEBUG:root:round count_alive called, returned: 12
+INFO:root:move_sheep, position before: -1.3384969445749233, 1.8384969445749233
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -1.3384969445749233, 2.3384969445749233
+INFO:root:move_sheep, position before: -5.8450582823996395, 6.3450582823996395
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -5.3450582823996395, 6.3450582823996395
+INFO:root:move_sheep, position before: -5.750342254076609, 7.250342254076609
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -5.750342254076609, 6.750342254076609
+INFO:root:move_sheep, position before: -6.988727324726266, 7.488727324726265
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -7.488727324726266, 7.488727324726265
+INFO:root:move_sheep, position before: -7.045101926264879, 5.545101926264879
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -7.045101926264879, 5.045101926264879
+INFO:root:move_sheep, position before: -6.08750382233061, 4.58750382233061
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -5.58750382233061, 4.58750382233061
+INFO:root:move_sheep, position before: -7.298363908956361, 7.798363908956361
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -7.298363908956361, 8.298363908956361
+INFO:root:move_sheep, position before: -4.710045084019697, 5.210045084019697
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -4.710045084019697, 4.710045084019697
+INFO:root:move_sheep, position before: -3.5638033131396156, 4.063803313139616
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -3.5638033131396156, 3.5638033131396156
+INFO:root:move_sheep, position before: -3.835167322806779, 4.335167322806779
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -3.835167322806779, 4.835167322806779
+INFO:root:move_sheep, position before: -2.715055512664321, 4.215055512664321
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -2.215055512664321, 4.215055512664321
+INFO:root:move_sheep, position before: -5.32089024374668, 4.82089024374668
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -5.32089024374668, 4.32089024374668
+INFO:root:move_wolf, position before: -1.3394543437262756, 1.2474642915106489
+INFO:root:move_wolf, position after: -1.3385768275675722, 2.2474639064932704
+DEBUG:root:move_wolf method called
+DEBUG:root:sheep_info function called, returned values: -1.3384969445749233, 2.3384969445749233
+DEBUG:root:sheep_info function called, returned values: -5.3450582823996395, 6.3450582823996395
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -5.750342254076609, 6.750342254076609
+DEBUG:root:sheep_info function called, returned values: -7.488727324726266, 7.488727324726265
+DEBUG:root:sheep_info function called, returned values: -7.045101926264879, 5.045101926264879
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -5.58750382233061, 4.58750382233061
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -7.298363908956361, 8.298363908956361
+DEBUG:root:sheep_info function called, returned values: -4.710045084019697, 4.710045084019697
+DEBUG:root:sheep_info function called, returned values: -3.5638033131396156, 3.5638033131396156
+DEBUG:root:sheep_info function called, returned values: -3.835167322806779, 4.835167322806779
+DEBUG:root:sheep_info function called, returned values: -2.215055512664321, 4.215055512664321
+DEBUG:root:sheep_info function called, returned values: -5.32089024374668, 4.32089024374668
+DEBUG:root:round toJSON called
+DEBUG:root:round function called
+DEBUG:root:round count_alive called, returned: 12
+DEBUG:root:toCSV called
+DEBUG:root:get_wolf_coordinates method called
+DEBUG:root:round count_alive called, returned: 12
+DEBUG:root:round count_alive called, returned: 12
+INFO:root:move_sheep, position before: -1.3384969445749233, 2.3384969445749233
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -1.8384969445749233, 2.3384969445749233
+INFO:root:move_sheep, position before: -5.3450582823996395, 6.3450582823996395
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -5.3450582823996395, 6.8450582823996395
+INFO:root:move_sheep, position before: -5.750342254076609, 6.750342254076609
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -5.750342254076609, 7.250342254076609
+INFO:root:move_sheep, position before: -7.488727324726266, 7.488727324726265
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -7.488727324726266, 7.988727324726265
+INFO:root:move_sheep, position before: -7.045101926264879, 5.045101926264879
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -7.545101926264879, 5.045101926264879
+INFO:root:move_sheep, position before: -5.58750382233061, 4.58750382233061
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -5.58750382233061, 4.08750382233061
+INFO:root:move_sheep, position before: -7.298363908956361, 8.298363908956361
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -7.298363908956361, 8.798363908956361
+INFO:root:move_sheep, position before: -4.710045084019697, 4.710045084019697
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -5.210045084019697, 4.710045084019697
+INFO:root:move_sheep, position before: -3.5638033131396156, 3.5638033131396156
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -3.5638033131396156, 3.0638033131396156
+INFO:root:move_sheep, position before: -3.835167322806779, 4.835167322806779
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -3.835167322806779, 5.335167322806779
+INFO:root:move_sheep, position before: -2.215055512664321, 4.215055512664321
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -2.215055512664321, 3.715055512664321
+INFO:root:move_sheep, position before: -5.32089024374668, 4.32089024374668
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -5.82089024374668, 4.32089024374668
+DEBUG:root:get_eaten function called
+INFO:root:wolf has eaten sheep, sheep number: 0
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -5.3450582823996395, 6.8450582823996395
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -5.750342254076609, 7.250342254076609
+DEBUG:root:sheep_info function called, returned values: -7.488727324726266, 7.988727324726265
+DEBUG:root:sheep_info function called, returned values: -7.545101926264879, 5.045101926264879
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -5.58750382233061, 4.08750382233061
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -7.298363908956361, 8.798363908956361
+DEBUG:root:sheep_info function called, returned values: -5.210045084019697, 4.710045084019697
+DEBUG:root:sheep_info function called, returned values: -3.5638033131396156, 3.0638033131396156
+DEBUG:root:sheep_info function called, returned values: -3.835167322806779, 5.335167322806779
+DEBUG:root:sheep_info function called, returned values: -2.215055512664321, 3.715055512664321
+DEBUG:root:sheep_info function called, returned values: -5.82089024374668, 4.32089024374668
+DEBUG:root:round toJSON called
+DEBUG:root:round function called
+DEBUG:root:round count_alive called, returned: 11
+DEBUG:root:toCSV called
+DEBUG:root:get_wolf_coordinates method called
+DEBUG:root:round count_alive called, returned: 11
+DEBUG:root:round count_alive called, returned: 11
+INFO:root:move_sheep, position before: -5.3450582823996395, 6.8450582823996395
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -5.3450582823996395, 7.3450582823996395
+INFO:root:move_sheep, position before: -5.750342254076609, 7.250342254076609
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -5.750342254076609, 6.750342254076609
+INFO:root:move_sheep, position before: -7.488727324726266, 7.988727324726265
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -7.488727324726266, 7.488727324726265
+INFO:root:move_sheep, position before: -7.545101926264879, 5.045101926264879
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -8.045101926264879, 5.045101926264879
+INFO:root:move_sheep, position before: -5.58750382233061, 4.08750382233061
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -5.08750382233061, 4.08750382233061
+INFO:root:move_sheep, position before: -7.298363908956361, 8.798363908956361
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -6.798363908956361, 8.798363908956361
+INFO:root:move_sheep, position before: -5.210045084019697, 4.710045084019697
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -5.710045084019697, 4.710045084019697
+INFO:root:move_sheep, position before: -3.5638033131396156, 3.0638033131396156
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -4.063803313139616, 3.0638033131396156
+INFO:root:move_sheep, position before: -3.835167322806779, 5.335167322806779
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -4.335167322806779, 5.335167322806779
+INFO:root:move_sheep, position before: -2.215055512664321, 3.715055512664321
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -2.715055512664321, 3.715055512664321
+INFO:root:move_sheep, position before: -5.82089024374668, 4.32089024374668
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -6.32089024374668, 4.32089024374668
+INFO:root:move_wolf, position before: -1.3385768275675722, 2.2474639064932704
+INFO:root:move_wolf, position after: -2.02267970362403, 2.976849438959663
+DEBUG:root:move_wolf method called
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -5.3450582823996395, 7.3450582823996395
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -5.750342254076609, 6.750342254076609
+DEBUG:root:sheep_info function called, returned values: -7.488727324726266, 7.488727324726265
+DEBUG:root:sheep_info function called, returned values: -8.045101926264879, 5.045101926264879
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -5.08750382233061, 4.08750382233061
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -6.798363908956361, 8.798363908956361
+DEBUG:root:sheep_info function called, returned values: -5.710045084019697, 4.710045084019697
+DEBUG:root:sheep_info function called, returned values: -4.063803313139616, 3.0638033131396156
+DEBUG:root:sheep_info function called, returned values: -4.335167322806779, 5.335167322806779
+DEBUG:root:sheep_info function called, returned values: -2.715055512664321, 3.715055512664321
+DEBUG:root:sheep_info function called, returned values: -6.32089024374668, 4.32089024374668
+DEBUG:root:round toJSON called
+DEBUG:root:round function called
+DEBUG:root:round count_alive called, returned: 11
+DEBUG:root:toCSV called
+DEBUG:root:get_wolf_coordinates method called
+DEBUG:root:round count_alive called, returned: 11
+DEBUG:root:round count_alive called, returned: 11
+INFO:root:move_sheep, position before: -5.3450582823996395, 7.3450582823996395
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -5.3450582823996395, 7.8450582823996395
+INFO:root:move_sheep, position before: -5.750342254076609, 6.750342254076609
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -5.750342254076609, 6.250342254076609
+INFO:root:move_sheep, position before: -7.488727324726266, 7.488727324726265
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -6.988727324726266, 7.488727324726265
+INFO:root:move_sheep, position before: -8.045101926264879, 5.045101926264879
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -8.545101926264879, 5.045101926264879
+INFO:root:move_sheep, position before: -5.08750382233061, 4.08750382233061
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -5.58750382233061, 4.08750382233061
+INFO:root:move_sheep, position before: -6.798363908956361, 8.798363908956361
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -7.298363908956361, 8.798363908956361
+INFO:root:move_sheep, position before: -5.710045084019697, 4.710045084019697
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -5.210045084019697, 4.710045084019697
+INFO:root:move_sheep, position before: -4.063803313139616, 3.0638033131396156
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -4.563803313139616, 3.0638033131396156
+INFO:root:move_sheep, position before: -4.335167322806779, 5.335167322806779
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -4.335167322806779, 4.835167322806779
+INFO:root:move_sheep, position before: -2.715055512664321, 3.715055512664321
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -2.715055512664321, 4.215055512664321
+INFO:root:move_sheep, position before: -6.32089024374668, 4.32089024374668
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -5.82089024374668, 4.32089024374668
+INFO:root:move_wolf, position before: -2.02267970362403, 2.976849438959663
+INFO:root:move_wolf, position after: -2.5107358455474293, 3.849661676689432
+DEBUG:root:move_wolf method called
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -5.3450582823996395, 7.8450582823996395
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -5.750342254076609, 6.250342254076609
+DEBUG:root:sheep_info function called, returned values: -6.988727324726266, 7.488727324726265
+DEBUG:root:sheep_info function called, returned values: -8.545101926264879, 5.045101926264879
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -5.58750382233061, 4.08750382233061
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -7.298363908956361, 8.798363908956361
+DEBUG:root:sheep_info function called, returned values: -5.210045084019697, 4.710045084019697
+DEBUG:root:sheep_info function called, returned values: -4.563803313139616, 3.0638033131396156
+DEBUG:root:sheep_info function called, returned values: -4.335167322806779, 4.835167322806779
+DEBUG:root:sheep_info function called, returned values: -2.715055512664321, 4.215055512664321
+DEBUG:root:sheep_info function called, returned values: -5.82089024374668, 4.32089024374668
+DEBUG:root:round toJSON called
+DEBUG:root:round function called
+DEBUG:root:round count_alive called, returned: 11
+DEBUG:root:toCSV called
+DEBUG:root:get_wolf_coordinates method called
+DEBUG:root:round count_alive called, returned: 11
+DEBUG:root:round count_alive called, returned: 11
+INFO:root:move_sheep, position before: -5.3450582823996395, 7.8450582823996395
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -5.3450582823996395, 8.34505828239964
+INFO:root:move_sheep, position before: -5.750342254076609, 6.250342254076609
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -5.750342254076609, 6.750342254076609
+INFO:root:move_sheep, position before: -6.988727324726266, 7.488727324726265
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -6.988727324726266, 6.988727324726265
+INFO:root:move_sheep, position before: -8.545101926264879, 5.045101926264879
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -8.045101926264879, 5.045101926264879
+INFO:root:move_sheep, position before: -5.58750382233061, 4.08750382233061
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -5.08750382233061, 4.08750382233061
+INFO:root:move_sheep, position before: -7.298363908956361, 8.798363908956361
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -7.298363908956361, 8.298363908956361
+INFO:root:move_sheep, position before: -5.210045084019697, 4.710045084019697
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -5.210045084019697, 5.210045084019697
+INFO:root:move_sheep, position before: -4.563803313139616, 3.0638033131396156
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -5.063803313139616, 3.0638033131396156
+INFO:root:move_sheep, position before: -4.335167322806779, 4.835167322806779
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -4.335167322806779, 5.335167322806779
+INFO:root:move_sheep, position before: -2.715055512664321, 4.215055512664321
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -3.215055512664321, 4.215055512664321
+INFO:root:move_sheep, position before: -5.82089024374668, 4.32089024374668
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -5.32089024374668, 4.32089024374668
+DEBUG:root:get_eaten function called
+INFO:root:wolf has eaten sheep, sheep number: 13
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -5.3450582823996395, 8.34505828239964
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -5.750342254076609, 6.750342254076609
+DEBUG:root:sheep_info function called, returned values: -6.988727324726266, 6.988727324726265
+DEBUG:root:sheep_info function called, returned values: -8.045101926264879, 5.045101926264879
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -5.08750382233061, 4.08750382233061
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -7.298363908956361, 8.298363908956361
+DEBUG:root:sheep_info function called, returned values: -5.210045084019697, 5.210045084019697
+DEBUG:root:sheep_info function called, returned values: -5.063803313139616, 3.0638033131396156
+DEBUG:root:sheep_info function called, returned values: -4.335167322806779, 5.335167322806779
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -5.32089024374668, 4.32089024374668
+DEBUG:root:round toJSON called
+DEBUG:root:round function called
+DEBUG:root:round count_alive called, returned: 10
+DEBUG:root:toCSV called
+DEBUG:root:get_wolf_coordinates method called
+DEBUG:root:round count_alive called, returned: 10
+DEBUG:root:round count_alive called, returned: 10
+INFO:root:move_sheep, position before: -5.3450582823996395, 8.34505828239964
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -5.3450582823996395, 7.8450582823996395
+INFO:root:move_sheep, position before: -5.750342254076609, 6.750342254076609
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -5.250342254076609, 6.750342254076609
+INFO:root:move_sheep, position before: -6.988727324726266, 6.988727324726265
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -6.988727324726266, 6.488727324726265
+INFO:root:move_sheep, position before: -8.045101926264879, 5.045101926264879
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -8.545101926264879, 5.045101926264879
+INFO:root:move_sheep, position before: -5.08750382233061, 4.08750382233061
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -4.58750382233061, 4.08750382233061
+INFO:root:move_sheep, position before: -7.298363908956361, 8.298363908956361
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -7.298363908956361, 7.798363908956361
+INFO:root:move_sheep, position before: -5.210045084019697, 5.210045084019697
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -5.210045084019697, 4.710045084019697
+INFO:root:move_sheep, position before: -5.063803313139616, 3.0638033131396156
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -5.563803313139616, 3.0638033131396156
+INFO:root:move_sheep, position before: -4.335167322806779, 5.335167322806779
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -4.835167322806779, 5.335167322806779
+INFO:root:move_sheep, position before: -5.32089024374668, 4.32089024374668
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -5.32089024374668, 3.82089024374668
+INFO:root:move_wolf, position before: -2.5107358455474293, 3.849661676689432
+INFO:root:move_wolf, position after: -3.504241655586666, 3.9634430698004346
+DEBUG:root:move_wolf method called
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -5.3450582823996395, 7.8450582823996395
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -5.250342254076609, 6.750342254076609
+DEBUG:root:sheep_info function called, returned values: -6.988727324726266, 6.488727324726265
+DEBUG:root:sheep_info function called, returned values: -8.545101926264879, 5.045101926264879
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -4.58750382233061, 4.08750382233061
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -7.298363908956361, 7.798363908956361
+DEBUG:root:sheep_info function called, returned values: -5.210045084019697, 4.710045084019697
+DEBUG:root:sheep_info function called, returned values: -5.563803313139616, 3.0638033131396156
+DEBUG:root:sheep_info function called, returned values: -4.835167322806779, 5.335167322806779
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -5.32089024374668, 3.82089024374668
+DEBUG:root:round toJSON called
+DEBUG:root:round function called
+DEBUG:root:round count_alive called, returned: 10
+DEBUG:root:toCSV called
+DEBUG:root:get_wolf_coordinates method called
+DEBUG:root:round count_alive called, returned: 10
+DEBUG:root:round count_alive called, returned: 10
+INFO:root:move_sheep, position before: -5.3450582823996395, 7.8450582823996395
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -5.3450582823996395, 7.3450582823996395
+INFO:root:move_sheep, position before: -5.250342254076609, 6.750342254076609
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -5.250342254076609, 6.250342254076609
+INFO:root:move_sheep, position before: -6.988727324726266, 6.488727324726265
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -7.488727324726266, 6.488727324726265
+INFO:root:move_sheep, position before: -8.545101926264879, 5.045101926264879
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -8.545101926264879, 4.545101926264879
+INFO:root:move_sheep, position before: -4.58750382233061, 4.08750382233061
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -5.08750382233061, 4.08750382233061
+INFO:root:move_sheep, position before: -7.298363908956361, 7.798363908956361
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -6.798363908956361, 7.798363908956361
+INFO:root:move_sheep, position before: -5.210045084019697, 4.710045084019697
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -4.710045084019697, 4.710045084019697
+INFO:root:move_sheep, position before: -5.563803313139616, 3.0638033131396156
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -5.563803313139616, 3.5638033131396156
+INFO:root:move_sheep, position before: -4.835167322806779, 5.335167322806779
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -4.335167322806779, 5.335167322806779
+INFO:root:move_sheep, position before: -5.32089024374668, 3.82089024374668
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -5.32089024374668, 3.32089024374668
+INFO:root:move_wolf, position before: -3.504241655586666, 3.9634430698004346
+INFO:root:move_wolf, position after: -4.354458747061378, 4.489875304151904
+DEBUG:root:move_wolf method called
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -5.3450582823996395, 7.3450582823996395
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -5.250342254076609, 6.250342254076609
+DEBUG:root:sheep_info function called, returned values: -7.488727324726266, 6.488727324726265
+DEBUG:root:sheep_info function called, returned values: -8.545101926264879, 4.545101926264879
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -5.08750382233061, 4.08750382233061
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -6.798363908956361, 7.798363908956361
+DEBUG:root:sheep_info function called, returned values: -4.710045084019697, 4.710045084019697
+DEBUG:root:sheep_info function called, returned values: -5.563803313139616, 3.5638033131396156
+DEBUG:root:sheep_info function called, returned values: -4.335167322806779, 5.335167322806779
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -5.32089024374668, 3.32089024374668
+DEBUG:root:round toJSON called
+DEBUG:root:round function called
+DEBUG:root:round count_alive called, returned: 10
+DEBUG:root:toCSV called
+DEBUG:root:get_wolf_coordinates method called
+DEBUG:root:round count_alive called, returned: 10
+DEBUG:root:round count_alive called, returned: 10
+INFO:root:move_sheep, position before: -5.3450582823996395, 7.3450582823996395
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -5.3450582823996395, 6.8450582823996395
+INFO:root:move_sheep, position before: -5.250342254076609, 6.250342254076609
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -5.750342254076609, 6.250342254076609
+INFO:root:move_sheep, position before: -7.488727324726266, 6.488727324726265
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -7.988727324726266, 6.488727324726265
+INFO:root:move_sheep, position before: -8.545101926264879, 4.545101926264879
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -9.045101926264879, 4.545101926264879
+INFO:root:move_sheep, position before: -5.08750382233061, 4.08750382233061
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -5.58750382233061, 4.08750382233061
+INFO:root:move_sheep, position before: -6.798363908956361, 7.798363908956361
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -6.798363908956361, 8.298363908956361
+INFO:root:move_sheep, position before: -4.710045084019697, 4.710045084019697
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -5.210045084019697, 4.710045084019697
+INFO:root:move_sheep, position before: -5.563803313139616, 3.5638033131396156
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -5.563803313139616, 3.0638033131396156
+INFO:root:move_sheep, position before: -4.335167322806779, 5.335167322806779
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -4.335167322806779, 5.835167322806779
+INFO:root:move_sheep, position before: -5.32089024374668, 3.32089024374668
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -4.82089024374668, 3.32089024374668
+DEBUG:root:get_eaten function called
+INFO:root:wolf has eaten sheep, sheep number: 10
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -5.3450582823996395, 6.8450582823996395
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -5.750342254076609, 6.250342254076609
+DEBUG:root:sheep_info function called, returned values: -7.988727324726266, 6.488727324726265
+DEBUG:root:sheep_info function called, returned values: -9.045101926264879, 4.545101926264879
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -5.58750382233061, 4.08750382233061
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -6.798363908956361, 8.298363908956361
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -5.563803313139616, 3.0638033131396156
+DEBUG:root:sheep_info function called, returned values: -4.335167322806779, 5.835167322806779
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -4.82089024374668, 3.32089024374668
+DEBUG:root:round toJSON called
+DEBUG:root:round function called
+DEBUG:root:round count_alive called, returned: 9
+DEBUG:root:toCSV called
+DEBUG:root:get_wolf_coordinates method called
+DEBUG:root:round count_alive called, returned: 9
+DEBUG:root:round count_alive called, returned: 9
+INFO:root:move_sheep, position before: -5.3450582823996395, 6.8450582823996395
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -4.8450582823996395, 6.8450582823996395
+INFO:root:move_sheep, position before: -5.750342254076609, 6.250342254076609
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -5.750342254076609, 6.750342254076609
+INFO:root:move_sheep, position before: -7.988727324726266, 6.488727324726265
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -7.988727324726266, 5.988727324726265
+INFO:root:move_sheep, position before: -9.045101926264879, 4.545101926264879
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -9.045101926264879, 4.045101926264879
+INFO:root:move_sheep, position before: -5.58750382233061, 4.08750382233061
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -5.58750382233061, 3.5875038223306097
+INFO:root:move_sheep, position before: -6.798363908956361, 8.298363908956361
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -6.298363908956361, 8.298363908956361
+INFO:root:move_sheep, position before: -5.563803313139616, 3.0638033131396156
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -5.063803313139616, 3.0638033131396156
+INFO:root:move_sheep, position before: -4.335167322806779, 5.835167322806779
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -4.335167322806779, 5.335167322806779
+INFO:root:move_sheep, position before: -4.82089024374668, 3.32089024374668
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -4.82089024374668, 2.82089024374668
+DEBUG:root:get_eaten function called
+INFO:root:wolf has eaten sheep, sheep number: 12
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -4.8450582823996395, 6.8450582823996395
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -5.750342254076609, 6.750342254076609
+DEBUG:root:sheep_info function called, returned values: -7.988727324726266, 5.988727324726265
+DEBUG:root:sheep_info function called, returned values: -9.045101926264879, 4.045101926264879
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -5.58750382233061, 3.5875038223306097
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -6.298363908956361, 8.298363908956361
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -5.063803313139616, 3.0638033131396156
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -4.82089024374668, 2.82089024374668
+DEBUG:root:round toJSON called
+DEBUG:root:round function called
+DEBUG:root:round count_alive called, returned: 8
+DEBUG:root:toCSV called
+DEBUG:root:get_wolf_coordinates method called
+DEBUG:root:round count_alive called, returned: 8
+DEBUG:root:round count_alive called, returned: 8
+INFO:root:move_sheep, position before: -4.8450582823996395, 6.8450582823996395
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -4.8450582823996395, 7.3450582823996395
+INFO:root:move_sheep, position before: -5.750342254076609, 6.750342254076609
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -5.250342254076609, 6.750342254076609
+INFO:root:move_sheep, position before: -7.988727324726266, 5.988727324726265
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -7.488727324726266, 5.988727324726265
+INFO:root:move_sheep, position before: -9.045101926264879, 4.045101926264879
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -8.545101926264879, 4.045101926264879
+INFO:root:move_sheep, position before: -5.58750382233061, 3.5875038223306097
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -6.08750382233061, 3.5875038223306097
+INFO:root:move_sheep, position before: -6.298363908956361, 8.298363908956361
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -6.298363908956361, 7.798363908956361
+INFO:root:move_sheep, position before: -5.063803313139616, 3.0638033131396156
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -5.063803313139616, 3.5638033131396156
+INFO:root:move_sheep, position before: -4.82089024374668, 2.82089024374668
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -4.82089024374668, 2.32089024374668
+INFO:root:move_wolf, position before: -4.354458747061378, 4.489875304151904
+INFO:root:move_wolf, position after: -4.9625425556108125, 3.6960024668662244
+DEBUG:root:move_wolf method called
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -4.8450582823996395, 7.3450582823996395
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -5.250342254076609, 6.750342254076609
+DEBUG:root:sheep_info function called, returned values: -7.488727324726266, 5.988727324726265
+DEBUG:root:sheep_info function called, returned values: -8.545101926264879, 4.045101926264879
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -6.08750382233061, 3.5875038223306097
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -6.298363908956361, 7.798363908956361
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -5.063803313139616, 3.5638033131396156
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -4.82089024374668, 2.32089024374668
+DEBUG:root:round toJSON called
+DEBUG:root:round function called
+DEBUG:root:round count_alive called, returned: 8
+DEBUG:root:toCSV called
+DEBUG:root:get_wolf_coordinates method called
+DEBUG:root:round count_alive called, returned: 8
+DEBUG:root:round count_alive called, returned: 8
+INFO:root:move_sheep, position before: -4.8450582823996395, 7.3450582823996395
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -4.3450582823996395, 7.3450582823996395
+INFO:root:move_sheep, position before: -5.250342254076609, 6.750342254076609
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -5.250342254076609, 6.250342254076609
+INFO:root:move_sheep, position before: -7.488727324726266, 5.988727324726265
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -7.988727324726266, 5.988727324726265
+INFO:root:move_sheep, position before: -8.545101926264879, 4.045101926264879
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -9.045101926264879, 4.045101926264879
+INFO:root:move_sheep, position before: -6.08750382233061, 3.5875038223306097
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -6.58750382233061, 3.5875038223306097
+INFO:root:move_sheep, position before: -6.298363908956361, 7.798363908956361
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -6.298363908956361, 7.298363908956361
+INFO:root:move_sheep, position before: -5.063803313139616, 3.5638033131396156
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -5.563803313139616, 3.5638033131396156
+INFO:root:move_sheep, position before: -4.82089024374668, 2.32089024374668
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -4.32089024374668, 2.32089024374668
+DEBUG:root:get_eaten function called
+INFO:root:wolf has eaten sheep, sheep number: 11
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -4.3450582823996395, 7.3450582823996395
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -5.250342254076609, 6.250342254076609
+DEBUG:root:sheep_info function called, returned values: -7.988727324726266, 5.988727324726265
+DEBUG:root:sheep_info function called, returned values: -9.045101926264879, 4.045101926264879
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -6.58750382233061, 3.5875038223306097
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -6.298363908956361, 7.298363908956361
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -4.32089024374668, 2.32089024374668
+DEBUG:root:round toJSON called
+DEBUG:root:round function called
+DEBUG:root:round count_alive called, returned: 7
+DEBUG:root:toCSV called
+DEBUG:root:get_wolf_coordinates method called
+DEBUG:root:round count_alive called, returned: 7
+DEBUG:root:round count_alive called, returned: 7
+INFO:root:move_sheep, position before: -4.3450582823996395, 7.3450582823996395
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -3.8450582823996395, 7.3450582823996395
+INFO:root:move_sheep, position before: -5.250342254076609, 6.250342254076609
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -4.750342254076609, 6.250342254076609
+INFO:root:move_sheep, position before: -7.988727324726266, 5.988727324726265
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -7.488727324726266, 5.988727324726265
+INFO:root:move_sheep, position before: -9.045101926264879, 4.045101926264879
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -9.045101926264879, 3.545101926264879
+INFO:root:move_sheep, position before: -6.58750382233061, 3.5875038223306097
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -7.08750382233061, 3.5875038223306097
+INFO:root:move_sheep, position before: -6.298363908956361, 7.298363908956361
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -5.798363908956361, 7.298363908956361
+INFO:root:move_sheep, position before: -4.32089024374668, 2.32089024374668
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -4.82089024374668, 2.32089024374668
+INFO:root:move_wolf, position before: -4.9625425556108125, 3.6960024668662244
+INFO:root:move_wolf, position after: -4.860073334138301, 2.701266291465522
+DEBUG:root:move_wolf method called
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -3.8450582823996395, 7.3450582823996395
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -4.750342254076609, 6.250342254076609
+DEBUG:root:sheep_info function called, returned values: -7.488727324726266, 5.988727324726265
+DEBUG:root:sheep_info function called, returned values: -9.045101926264879, 3.545101926264879
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -7.08750382233061, 3.5875038223306097
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -5.798363908956361, 7.298363908956361
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -4.82089024374668, 2.32089024374668
+DEBUG:root:round toJSON called
+DEBUG:root:round function called
+DEBUG:root:round count_alive called, returned: 7
+DEBUG:root:toCSV called
+DEBUG:root:get_wolf_coordinates method called
+DEBUG:root:round count_alive called, returned: 7
+DEBUG:root:round count_alive called, returned: 7
+INFO:root:move_sheep, position before: -3.8450582823996395, 7.3450582823996395
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -4.3450582823996395, 7.3450582823996395
+INFO:root:move_sheep, position before: -4.750342254076609, 6.250342254076609
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -5.250342254076609, 6.250342254076609
+INFO:root:move_sheep, position before: -7.488727324726266, 5.988727324726265
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -7.988727324726266, 5.988727324726265
+INFO:root:move_sheep, position before: -9.045101926264879, 3.545101926264879
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -9.045101926264879, 3.045101926264879
+INFO:root:move_sheep, position before: -7.08750382233061, 3.5875038223306097
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -6.58750382233061, 3.5875038223306097
+INFO:root:move_sheep, position before: -5.798363908956361, 7.298363908956361
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -5.798363908956361, 6.798363908956361
+INFO:root:move_sheep, position before: -4.82089024374668, 2.32089024374668
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -4.32089024374668, 2.32089024374668
+DEBUG:root:get_eaten function called
+INFO:root:wolf has eaten sheep, sheep number: 14
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -4.3450582823996395, 7.3450582823996395
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -5.250342254076609, 6.250342254076609
+DEBUG:root:sheep_info function called, returned values: -7.988727324726266, 5.988727324726265
+DEBUG:root:sheep_info function called, returned values: -9.045101926264879, 3.045101926264879
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -6.58750382233061, 3.5875038223306097
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -5.798363908956361, 6.798363908956361
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:round toJSON called
+DEBUG:root:round function called
+DEBUG:root:round count_alive called, returned: 6
+DEBUG:root:toCSV called
+DEBUG:root:get_wolf_coordinates method called
+DEBUG:root:round count_alive called, returned: 6
+DEBUG:root:round count_alive called, returned: 6
+INFO:root:move_sheep, position before: -4.3450582823996395, 7.3450582823996395
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -3.8450582823996395, 7.3450582823996395
+INFO:root:move_sheep, position before: -5.250342254076609, 6.250342254076609
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -4.750342254076609, 6.250342254076609
+INFO:root:move_sheep, position before: -7.988727324726266, 5.988727324726265
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -7.988727324726266, 5.488727324726265
+INFO:root:move_sheep, position before: -9.045101926264879, 3.045101926264879
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -9.045101926264879, 2.545101926264879
+INFO:root:move_sheep, position before: -6.58750382233061, 3.5875038223306097
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -6.58750382233061, 4.08750382233061
+INFO:root:move_sheep, position before: -5.798363908956361, 6.798363908956361
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -5.798363908956361, 7.298363908956361
+INFO:root:move_wolf, position before: -4.860073334138301, 2.701266291465522
+INFO:root:move_wolf, position after: -5.639995726276786, 3.3271425270273003
+DEBUG:root:move_wolf method called
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -3.8450582823996395, 7.3450582823996395
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -4.750342254076609, 6.250342254076609
+DEBUG:root:sheep_info function called, returned values: -7.988727324726266, 5.488727324726265
+DEBUG:root:sheep_info function called, returned values: -9.045101926264879, 2.545101926264879
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -6.58750382233061, 4.08750382233061
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -5.798363908956361, 7.298363908956361
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:round toJSON called
+DEBUG:root:round function called
+DEBUG:root:round count_alive called, returned: 6
+DEBUG:root:toCSV called
+DEBUG:root:get_wolf_coordinates method called
+DEBUG:root:round count_alive called, returned: 6
+DEBUG:root:round count_alive called, returned: 6
+INFO:root:move_sheep, position before: -3.8450582823996395, 7.3450582823996395
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -3.8450582823996395, 7.8450582823996395
+INFO:root:move_sheep, position before: -4.750342254076609, 6.250342254076609
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -4.750342254076609, 5.750342254076609
+INFO:root:move_sheep, position before: -7.988727324726266, 5.488727324726265
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -8.488727324726266, 5.488727324726265
+INFO:root:move_sheep, position before: -9.045101926264879, 2.545101926264879
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -9.545101926264879, 2.545101926264879
+INFO:root:move_sheep, position before: -6.58750382233061, 4.08750382233061
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -6.08750382233061, 4.08750382233061
+INFO:root:move_sheep, position before: -5.798363908956361, 7.298363908956361
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -6.298363908956361, 7.298363908956361
+DEBUG:root:get_eaten function called
+INFO:root:wolf has eaten sheep, sheep number: 7
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -3.8450582823996395, 7.8450582823996395
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -4.750342254076609, 5.750342254076609
+DEBUG:root:sheep_info function called, returned values: -8.488727324726266, 5.488727324726265
+DEBUG:root:sheep_info function called, returned values: -9.545101926264879, 2.545101926264879
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -6.298363908956361, 7.298363908956361
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:round toJSON called
+DEBUG:root:round function called
+DEBUG:root:round count_alive called, returned: 5
+DEBUG:root:toCSV called
+DEBUG:root:get_wolf_coordinates method called
+DEBUG:root:round count_alive called, returned: 5
+DEBUG:root:round count_alive called, returned: 5
+INFO:root:move_sheep, position before: -3.8450582823996395, 7.8450582823996395
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -3.3450582823996395, 7.8450582823996395
+INFO:root:move_sheep, position before: -4.750342254076609, 5.750342254076609
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -4.750342254076609, 6.250342254076609
+INFO:root:move_sheep, position before: -8.488727324726266, 5.488727324726265
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -8.488727324726266, 5.988727324726265
+INFO:root:move_sheep, position before: -9.545101926264879, 2.545101926264879
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -10.045101926264879, 2.545101926264879
+INFO:root:move_sheep, position before: -6.298363908956361, 7.298363908956361
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -5.798363908956361, 7.298363908956361
+INFO:root:move_wolf, position before: -5.639995726276786, 3.3271425270273003
+INFO:root:move_wolf, position after: -5.348838905885952, 4.283817866910115
+DEBUG:root:move_wolf method called
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -3.3450582823996395, 7.8450582823996395
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -4.750342254076609, 6.250342254076609
+DEBUG:root:sheep_info function called, returned values: -8.488727324726266, 5.988727324726265
+DEBUG:root:sheep_info function called, returned values: -10.045101926264879, 2.545101926264879
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -5.798363908956361, 7.298363908956361
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:round toJSON called
+DEBUG:root:round function called
+DEBUG:root:round count_alive called, returned: 5
+DEBUG:root:toCSV called
+DEBUG:root:get_wolf_coordinates method called
+DEBUG:root:round count_alive called, returned: 5
+DEBUG:root:round count_alive called, returned: 5
+INFO:root:move_sheep, position before: -3.3450582823996395, 7.8450582823996395
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -3.3450582823996395, 8.34505828239964
+INFO:root:move_sheep, position before: -4.750342254076609, 6.250342254076609
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -5.250342254076609, 6.250342254076609
+INFO:root:move_sheep, position before: -8.488727324726266, 5.988727324726265
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -8.988727324726266, 5.988727324726265
+INFO:root:move_sheep, position before: -10.045101926264879, 2.545101926264879
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -9.545101926264879, 2.545101926264879
+INFO:root:move_sheep, position before: -5.798363908956361, 7.298363908956361
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -6.298363908956361, 7.298363908956361
+INFO:root:move_wolf, position before: -5.348838905885952, 4.283817866910115
+INFO:root:move_wolf, position after: -5.298814946651909, 5.2825658849319534
+DEBUG:root:move_wolf method called
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -3.3450582823996395, 8.34505828239964
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -5.250342254076609, 6.250342254076609
+DEBUG:root:sheep_info function called, returned values: -8.988727324726266, 5.988727324726265
+DEBUG:root:sheep_info function called, returned values: -9.545101926264879, 2.545101926264879
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -6.298363908956361, 7.298363908956361
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:round toJSON called
+DEBUG:root:round function called
+DEBUG:root:round count_alive called, returned: 5
+DEBUG:root:toCSV called
+DEBUG:root:get_wolf_coordinates method called
+DEBUG:root:round count_alive called, returned: 5
+DEBUG:root:round count_alive called, returned: 5
+INFO:root:move_sheep, position before: -3.3450582823996395, 8.34505828239964
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -3.3450582823996395, 7.8450582823996395
+INFO:root:move_sheep, position before: -5.250342254076609, 6.250342254076609
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -5.250342254076609, 6.750342254076609
+INFO:root:move_sheep, position before: -8.988727324726266, 5.988727324726265
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -9.488727324726266, 5.988727324726265
+INFO:root:move_sheep, position before: -9.545101926264879, 2.545101926264879
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -9.545101926264879, 3.045101926264879
+INFO:root:move_sheep, position before: -6.298363908956361, 7.298363908956361
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -6.298363908956361, 7.798363908956361
+INFO:root:move_wolf, position before: -5.298814946651909, 5.2825658849319534
+INFO:root:move_wolf, position after: -5.265808364390917, 6.2820210192563755
+DEBUG:root:move_wolf method called
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -3.3450582823996395, 7.8450582823996395
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -5.250342254076609, 6.750342254076609
+DEBUG:root:sheep_info function called, returned values: -9.488727324726266, 5.988727324726265
+DEBUG:root:sheep_info function called, returned values: -9.545101926264879, 3.045101926264879
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -6.298363908956361, 7.798363908956361
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:round toJSON called
+DEBUG:root:round function called
+DEBUG:root:round count_alive called, returned: 5
+DEBUG:root:toCSV called
+DEBUG:root:get_wolf_coordinates method called
+DEBUG:root:round count_alive called, returned: 5
+DEBUG:root:round count_alive called, returned: 5
+INFO:root:move_sheep, position before: -3.3450582823996395, 7.8450582823996395
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -3.8450582823996395, 7.8450582823996395
+INFO:root:move_sheep, position before: -5.250342254076609, 6.750342254076609
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -4.750342254076609, 6.750342254076609
+INFO:root:move_sheep, position before: -9.488727324726266, 5.988727324726265
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -9.488727324726266, 5.488727324726265
+INFO:root:move_sheep, position before: -9.545101926264879, 3.045101926264879
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -9.045101926264879, 3.045101926264879
+INFO:root:move_sheep, position before: -6.298363908956361, 7.798363908956361
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -6.798363908956361, 7.798363908956361
+DEBUG:root:get_eaten function called
+INFO:root:wolf has eaten sheep, sheep number: 3
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -3.8450582823996395, 7.8450582823996395
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -9.488727324726266, 5.488727324726265
+DEBUG:root:sheep_info function called, returned values: -9.045101926264879, 3.045101926264879
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -6.798363908956361, 7.798363908956361
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:round toJSON called
+DEBUG:root:round function called
+DEBUG:root:round count_alive called, returned: 4
+DEBUG:root:toCSV called
+DEBUG:root:get_wolf_coordinates method called
+DEBUG:root:round count_alive called, returned: 4
+DEBUG:root:round count_alive called, returned: 4
+INFO:root:move_sheep, position before: -3.8450582823996395, 7.8450582823996395
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -3.8450582823996395, 8.34505828239964
+INFO:root:move_sheep, position before: -9.488727324726266, 5.488727324726265
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -9.488727324726266, 5.988727324726265
+INFO:root:move_sheep, position before: -9.045101926264879, 3.045101926264879
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -8.545101926264879, 3.045101926264879
+INFO:root:move_sheep, position before: -6.798363908956361, 7.798363908956361
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -6.798363908956361, 7.298363908956361
+INFO:root:move_wolf, position before: -5.265808364390917, 6.2820210192563755
+INFO:root:move_wolf, position after: -6.09920167430997, 6.834701388893443
+DEBUG:root:move_wolf method called
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -3.8450582823996395, 8.34505828239964
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -9.488727324726266, 5.988727324726265
+DEBUG:root:sheep_info function called, returned values: -8.545101926264879, 3.045101926264879
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -6.798363908956361, 7.298363908956361
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:round toJSON called
+DEBUG:root:round function called
+DEBUG:root:round count_alive called, returned: 4
+DEBUG:root:toCSV called
+DEBUG:root:get_wolf_coordinates method called
+DEBUG:root:round count_alive called, returned: 4
+DEBUG:root:round count_alive called, returned: 4
+INFO:root:move_sheep, position before: -3.8450582823996395, 8.34505828239964
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -3.8450582823996395, 8.84505828239964
+INFO:root:move_sheep, position before: -9.488727324726266, 5.988727324726265
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -9.488727324726266, 6.488727324726265
+INFO:root:move_sheep, position before: -8.545101926264879, 3.045101926264879
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -8.545101926264879, 3.545101926264879
+INFO:root:move_sheep, position before: -6.798363908956361, 7.298363908956361
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -7.298363908956361, 7.298363908956361
+INFO:root:move_wolf, position before: -6.09920167430997, 6.834701388893443
+INFO:root:move_wolf, position after: -7.031908302851055, 7.195337417425705
+DEBUG:root:move_wolf method called
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -3.8450582823996395, 8.84505828239964
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -9.488727324726266, 6.488727324726265
+DEBUG:root:sheep_info function called, returned values: -8.545101926264879, 3.545101926264879
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -7.298363908956361, 7.298363908956361
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:round toJSON called
+DEBUG:root:round function called
+DEBUG:root:round count_alive called, returned: 4
+DEBUG:root:toCSV called
+DEBUG:root:get_wolf_coordinates method called
+DEBUG:root:round count_alive called, returned: 4
+DEBUG:root:round count_alive called, returned: 4
+INFO:root:move_sheep, position before: -3.8450582823996395, 8.84505828239964
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -3.8450582823996395, 8.34505828239964
+INFO:root:move_sheep, position before: -9.488727324726266, 6.488727324726265
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -8.988727324726266, 6.488727324726265
+INFO:root:move_sheep, position before: -8.545101926264879, 3.545101926264879
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -8.045101926264879, 3.545101926264879
+INFO:root:move_sheep, position before: -7.298363908956361, 7.298363908956361
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -7.798363908956361, 7.298363908956361
+DEBUG:root:get_eaten function called
+INFO:root:wolf has eaten sheep, sheep number: 9
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -3.8450582823996395, 8.34505828239964
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -8.988727324726266, 6.488727324726265
+DEBUG:root:sheep_info function called, returned values: -8.045101926264879, 3.545101926264879
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:round toJSON called
+DEBUG:root:round function called
+DEBUG:root:round count_alive called, returned: 3
+DEBUG:root:toCSV called
+DEBUG:root:get_wolf_coordinates method called
+DEBUG:root:round count_alive called, returned: 3
+DEBUG:root:round count_alive called, returned: 3
+INFO:root:move_sheep, position before: -3.8450582823996395, 8.34505828239964
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -3.8450582823996395, 7.8450582823996395
+INFO:root:move_sheep, position before: -8.988727324726266, 6.488727324726265
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -8.488727324726266, 6.488727324726265
+INFO:root:move_sheep, position before: -8.045101926264879, 3.545101926264879
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -7.545101926264879, 3.545101926264879
+INFO:root:move_wolf, position before: -7.031908302851055, 7.195337417425705
+INFO:root:move_wolf, position after: -7.931656065288188, 6.758927101336164
+DEBUG:root:move_wolf method called
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -3.8450582823996395, 7.8450582823996395
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -8.488727324726266, 6.488727324726265
+DEBUG:root:sheep_info function called, returned values: -7.545101926264879, 3.545101926264879
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:round toJSON called
+DEBUG:root:round function called
+DEBUG:root:round count_alive called, returned: 3
+DEBUG:root:toCSV called
+DEBUG:root:get_wolf_coordinates method called
+DEBUG:root:round count_alive called, returned: 3
+DEBUG:root:round count_alive called, returned: 3
+INFO:root:move_sheep, position before: -3.8450582823996395, 7.8450582823996395
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -3.8450582823996395, 7.3450582823996395
+INFO:root:move_sheep, position before: -8.488727324726266, 6.488727324726265
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -8.488727324726266, 5.988727324726265
+INFO:root:move_sheep, position before: -7.545101926264879, 3.545101926264879
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -7.045101926264879, 3.545101926264879
+DEBUG:root:get_eaten function called
+INFO:root:wolf has eaten sheep, sheep number: 4
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -3.8450582823996395, 7.3450582823996395
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -7.045101926264879, 3.545101926264879
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:round toJSON called
+DEBUG:root:round function called
+DEBUG:root:round count_alive called, returned: 2
+DEBUG:root:toCSV called
+DEBUG:root:get_wolf_coordinates method called
+DEBUG:root:round count_alive called, returned: 2
+DEBUG:root:round count_alive called, returned: 2
+INFO:root:move_sheep, position before: -3.8450582823996395, 7.3450582823996395
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -4.3450582823996395, 7.3450582823996395
+INFO:root:move_sheep, position before: -7.045101926264879, 3.545101926264879
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -7.045101926264879, 3.045101926264879
+INFO:root:move_wolf, position before: -7.931656065288188, 6.758927101336164
+INFO:root:move_wolf, position after: -6.94474788451717, 6.920210214919826
+DEBUG:root:move_wolf method called
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -4.3450582823996395, 7.3450582823996395
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -7.045101926264879, 3.045101926264879
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:round toJSON called
+DEBUG:root:round function called
+DEBUG:root:round count_alive called, returned: 2
+DEBUG:root:toCSV called
+DEBUG:root:get_wolf_coordinates method called
+DEBUG:root:round count_alive called, returned: 2
+DEBUG:root:round count_alive called, returned: 2
+INFO:root:move_sheep, position before: -4.3450582823996395, 7.3450582823996395
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -4.3450582823996395, 7.8450582823996395
+INFO:root:move_sheep, position before: -7.045101926264879, 3.045101926264879
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -7.545101926264879, 3.045101926264879
+INFO:root:move_wolf, position before: -6.94474788451717, 6.920210214919826
+INFO:root:move_wolf, position after: -6.002592006455671, 7.255385245962064
+DEBUG:root:move_wolf method called
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -4.3450582823996395, 7.8450582823996395
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -7.545101926264879, 3.045101926264879
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:round toJSON called
+DEBUG:root:round function called
+DEBUG:root:round count_alive called, returned: 2
+DEBUG:root:toCSV called
+DEBUG:root:get_wolf_coordinates method called
+DEBUG:root:round count_alive called, returned: 2
+DEBUG:root:round count_alive called, returned: 2
+INFO:root:move_sheep, position before: -4.3450582823996395, 7.8450582823996395
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -4.3450582823996395, 8.34505828239964
+INFO:root:move_sheep, position before: -7.545101926264879, 3.045101926264879
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -7.545101926264879, 3.545101926264879
+INFO:root:move_wolf, position before: -6.002592006455671, 7.255385245962064
+INFO:root:move_wolf, position after: -5.16698755398033, 7.804716838903326
+DEBUG:root:move_wolf method called
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -4.3450582823996395, 8.34505828239964
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -7.545101926264879, 3.545101926264879
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:round toJSON called
+DEBUG:root:round function called
+DEBUG:root:round count_alive called, returned: 2
+DEBUG:root:toCSV called
+DEBUG:root:get_wolf_coordinates method called
+DEBUG:root:round count_alive called, returned: 2
+DEBUG:root:round count_alive called, returned: 2
+INFO:root:move_sheep, position before: -4.3450582823996395, 8.34505828239964
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -4.3450582823996395, 8.84505828239964
+INFO:root:move_sheep, position before: -7.545101926264879, 3.545101926264879
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -7.545101926264879, 4.045101926264879
+INFO:root:move_wolf, position before: -5.16698755398033, 7.804716838903326
+INFO:root:move_wolf, position after: -4.547061232965076, 8.58937686497353
+DEBUG:root:move_wolf method called
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -4.3450582823996395, 8.84505828239964
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -7.545101926264879, 4.045101926264879
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:round toJSON called
+DEBUG:root:round function called
+DEBUG:root:round count_alive called, returned: 2
+DEBUG:root:toCSV called
+DEBUG:root:get_wolf_coordinates method called
+DEBUG:root:round count_alive called, returned: 2
+DEBUG:root:round count_alive called, returned: 2
+INFO:root:move_sheep, position before: -4.3450582823996395, 8.84505828239964
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -4.3450582823996395, 8.34505828239964
+INFO:root:move_sheep, position before: -7.545101926264879, 4.045101926264879
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -7.545101926264879, 4.545101926264879
+DEBUG:root:get_eaten function called
+INFO:root:wolf has eaten sheep, sheep number: 1
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -7.545101926264879, 4.545101926264879
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:round toJSON called
+DEBUG:root:round function called
+DEBUG:root:round count_alive called, returned: 1
+DEBUG:root:toCSV called
+DEBUG:root:get_wolf_coordinates method called
+DEBUG:root:round count_alive called, returned: 1
+DEBUG:root:round count_alive called, returned: 1
+INFO:root:move_sheep, position before: -7.545101926264879, 4.545101926264879
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -7.045101926264879, 4.545101926264879
+INFO:root:move_wolf, position before: -4.547061232965076, 8.58937686497353
+INFO:root:move_wolf, position after: -5.072570281170174, 7.738588853624892
+DEBUG:root:move_wolf method called
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -7.045101926264879, 4.545101926264879
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:round toJSON called
+DEBUG:root:round function called
+DEBUG:root:round count_alive called, returned: 1
+DEBUG:root:toCSV called
+DEBUG:root:get_wolf_coordinates method called
+DEBUG:root:round count_alive called, returned: 1
+DEBUG:root:round count_alive called, returned: 1
+INFO:root:move_sheep, position before: -7.045101926264879, 4.545101926264879
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -7.545101926264879, 4.545101926264879
+INFO:root:move_wolf, position before: -5.072570281170174, 7.738588853624892
+INFO:root:move_wolf, position after: -5.684767418197246, 6.947883683908734
+DEBUG:root:move_wolf method called
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -7.545101926264879, 4.545101926264879
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:round toJSON called
+DEBUG:root:round function called
+DEBUG:root:round count_alive called, returned: 1
+DEBUG:root:toCSV called
+DEBUG:root:get_wolf_coordinates method called
+DEBUG:root:round count_alive called, returned: 1
+DEBUG:root:round count_alive called, returned: 1
+INFO:root:move_sheep, position before: -7.545101926264879, 4.545101926264879
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -7.545101926264879, 5.045101926264879
+INFO:root:move_wolf, position before: -5.684767418197246, 6.947883683908734
+INFO:root:move_wolf, position after: -6.383853694358197, 6.232846357272275
+DEBUG:root:move_wolf method called
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -7.545101926264879, 5.045101926264879
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:round toJSON called
+DEBUG:root:round function called
+DEBUG:root:round count_alive called, returned: 1
+DEBUG:root:toCSV called
+DEBUG:root:get_wolf_coordinates method called
+DEBUG:root:round count_alive called, returned: 1
+DEBUG:root:round count_alive called, returned: 1
+INFO:root:move_sheep, position before: -7.545101926264879, 5.045101926264879
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -7.545101926264879, 4.545101926264879
+INFO:root:move_wolf, position before: -6.383853694358197, 6.232846357272275
+INFO:root:move_wolf, position after: -6.950688725181365, 5.40901503483321
+DEBUG:root:move_wolf method called
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: -7.545101926264879, 4.545101926264879
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:round toJSON called
+DEBUG:root:round function called
+DEBUG:root:round count_alive called, returned: 1
+DEBUG:root:toCSV called
+DEBUG:root:get_wolf_coordinates method called
+DEBUG:root:round count_alive called, returned: 1
+DEBUG:root:round count_alive called, returned: 1
+INFO:root:move_sheep, position before: -7.545101926264879, 4.545101926264879
+DEBUG:root:sheep move method called
+INFO:root:move_sheep, position after: -7.045101926264879, 4.545101926264879
+DEBUG:root:get_eaten function called
+INFO:root:wolf has eaten sheep, sheep number: 5
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:sheep_info function called, returned values: null
+DEBUG:root:round toJSON called
+DEBUG:root:round function called
+DEBUG:root:round count_alive called, returned: 0
+DEBUG:root:toCSV called
+DEBUG:root:get_wolf_coordinates method called
+DEBUG:root:round count_alive called, returned: 0
+DEBUG:root:round count_alive called, returned: 0
