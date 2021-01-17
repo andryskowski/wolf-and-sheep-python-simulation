@@ -8,9 +8,9 @@ from configparser import ConfigParser
 
 
 class Sheep:
-    def __init__(self):
+    def __init__(self, init_pos_limit):
         #wspolrzednie owcy w obszarze (-10,10)
-        self.init_pos_limit=random.uniform(0, 1)*10
+        self.init_pos_limit=random.uniform(0, 1)*init_pos_limit
         self.x = -(self.init_pos_limit)
         self.y = self.init_pos_limit
         self.status = "alive"
@@ -171,13 +171,12 @@ def main():
    # if args.help:
 
 
-
     wolf = Wolf()
     #dodawanie owiec do tablicy sheep
     sheep = []
-    i=0
+    i = 0
     while i < number_sheep:
-        sheep.append(Sheep())
+        sheep.append(Sheep(init_pos_limit))
         i += 1
 
     #rozgrywka
@@ -208,10 +207,6 @@ def main():
             input("Press key to continue simulation")
         j += 1
 
-    print("na koniec: ")
-    print(init_pos_limit)
-    print(sheep_move_dist)
-    print(wolf_move_dist)
 
 if __name__ == '__main__':
     main()
